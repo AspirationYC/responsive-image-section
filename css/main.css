@@ -76,6 +76,7 @@ a {
   .text {
     display: inline-block;
     width: 49%;
+    margin-top: 1em;
   }
 
   .image {
@@ -104,9 +105,5 @@ a {
 
   html {
     font-size: 130%;
-  }
-
-  .text {
-    text-align: center;
   }
 }
