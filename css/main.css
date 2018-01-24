@@ -105,4 +105,8 @@ a {
   html {
     font-size: 130%;
   }
+
+  .text {
+    text-align: center;
+  }
 }
